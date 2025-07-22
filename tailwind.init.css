@@ -7,3 +7,7 @@
     font-family: "Poppins", sans-serif;
   }
 }
+
+@theme{
+  --shadow-md: 0px 0px 40px 0px rgba(0, 0, 0, 0.15);
+}
